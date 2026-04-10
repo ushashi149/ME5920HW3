@@ -1,0 +1,410 @@
+path,class_id,split,class
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting10.mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/IMG_5441.MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/011 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/017 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/002(run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/031 (run side).mp4",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/004(walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/047(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/006(sit side).MOV",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/IMG_5440.MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/030 (walk side).mp4,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/002(stand front).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/stand to sit transitionnn.mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/023(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/33(front).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/008(stand front).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/011(walk front).MOV,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/016(stand front).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/sheep watering 2.MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/002(sit front).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/004(walk front).MOV,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/012 (run side).mp4",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/032 (stand side).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/003(front).MOV",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/wateringg.MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/027(front).MOV",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/007(stand front).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/007(stand side).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/030(sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/002(walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/43(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/015(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/020(sit side).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/004(run front).MOV",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/027(sit front).MOV",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/itching 01.MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/004(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/42(front).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/042(sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/sheep watering 6.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/017(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/44(front).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/030(run front).MOV",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/030 (stand side).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/002(stand side).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/017(run front).MOV",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/sheep watering 5.mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/031(sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/031 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/39(front).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/006(stand side).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/IMG_5320.MOV",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/040 (stand front).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/016(side front).MOV",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/019)stand side).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/009(side).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/006(side).MOV",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/022(stand side).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/010 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/42(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/037(sit front).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/50(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/VID_20210813_115955.mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/48(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/024 (run side).mp4",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/039 (stand side).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/035 (stand side).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/028(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting7.mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/024(stand side).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/028 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/043(sit front).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/021(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/50(front).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/021 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/52(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/007(sit side).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/016(run front).MOV",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/002(side).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/standing to sitting transition from front.mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/020 (run side).mp4",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/034 (stand front).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/46(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/016 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/034(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/041(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/014(side).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/47(front).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/037(sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_133000.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/040 (stand side).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/012(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/006(sit front).MOV",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/019 (walk side).mp4,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/037 (stand side).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/029(sit front).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/010(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/019(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/033 (run side).mp4",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/028 (Stand side).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/023(stand front).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_133041.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/standing to sitting animation.MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/38(side).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/024 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/008(run front).MOV",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_133251.mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/018(sit side).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/012(sit side).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/002(front).MOV",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/sheep watering 3.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/005 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/035(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/IMG_5483(0).MOV",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/043 (stand side).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/IMG_5456.MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/013(stand side).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/036 (Stand front).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/032 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting.mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/014(run front).MOV",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/027(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/004(sit side).MOV",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/005(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/044(sit front).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/013 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/000000041(sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/027(stand front).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_135400.mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/001(run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/019(side).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/051 (sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/012 (walk side).mp4,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/006 (walk side).mp4,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/standing rotating.MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/010(stand side).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/29(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/46(front).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/030 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/45(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/004(run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting5.mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/002(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/055 (sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_135603.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/024(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/006 (run side).mp4",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/018 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/24(side).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/026 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/49(side).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/017 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting4.mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/010(walk front).MOV,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_131600.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/009 (walk side).mp4,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/001(stand front).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/044(sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/029(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/015(sit side).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/024(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/53(side).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/010(stand front).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_133919.mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/30(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/010 (run side).mp4",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/029 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/011(run front).MOV",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/039(sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/034 (stand side).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_135725.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/038 (stand side).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/44(side).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/stand to sit transition 2.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_132453.mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/008(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/009 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/023 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/standing1.mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/036 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/35(front).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/003(stand front).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/006(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/037 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/018(side).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/005(sit side).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/033(sit front).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/019(run front).MOV",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/41(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting9.mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/040(sit front).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/022(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/003(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/032(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/036(sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/015(walk front).MOV,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/33(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/26(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/022(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/029(run front).MOV",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/033(stand front).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/011(stand side).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/032 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting6.mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/031(walk front).MOV,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/0000045(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/021(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/VID_20210813_122137.mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/009(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/035 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/007(sit front).MOV",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/033 (walk side).mp4,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/021(walk front).MOV,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/054 (sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/43(front).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/017(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/36(side).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/022 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/019(front).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/021(run front).MOV",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/021 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/012(run front).MOV",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/008(walk front).MOV,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/032(stand front).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/022 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/018(front).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/005 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/55(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/012(front).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/51(side).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/011(stand front).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/003(run front).MOV",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/027 (walk side).mp4,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/023 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/013(front).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/007(run front).MOV",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/011 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/022(sit side).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/021(side).MOV",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/013(stand front).MOV,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_134723.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/002(walk front).MOV,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/001(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/046(sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/039 (stand front).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/015(side).MOV",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/027 (stand Side).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/028(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/001(side).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/013 (run side).mp4",1,train,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/026 (walk side).mp4,4,train,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/030(stand front).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/41(front).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/038 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/034(run front).MOV",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/033(run front).MOV",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/019(sit side).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/045-046(sit front).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/012(side).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/001(sit front).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/28(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/028(front).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/40(front).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/037 (stand front).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/045(sit side).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/38(front).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/039(sit front).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_133715.mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/019 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/035(sit front).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/018(sit front).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/030(sit front).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/025(sit side).MOV",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/051 (sit front).mp4",2,train,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/37(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/27(side).mp4",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/004(stand side).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/39(side).mp4",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/042(sit front).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/012(stand side).MOV,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/013(sit side).MOV",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/sheep watering 4.mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_135457.mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/053 (sit side).mp4",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/026 (stand side).mp4,3,train,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/016 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/018 (run side).mp4",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/010(sit side).MOV",2,train,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/025 (walk side).mp4,4,train,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/005(front).MOV",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/036 (stand side).mp4,3,train,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/006(run front).MOV",1,train,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/001(front).MOV",0,train,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/022(front).MOV",0,train,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_133021.mp4,3,val,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/014(stand front).MOV,3,val,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/020 (walk side).mp4,4,val,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/020(front).MOV",0,val,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/010(run front).MOV",1,val,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/026(stand front).MOV,3,val,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/039 (run side).mp4",1,val,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/018(stand side).MOV,3,val,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/048 (sit side).mp4",2,val,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/014(sit side).MOV",2,val,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/014(walk front).MOV,4,val,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/025(sit front).MOV",2,val,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/029(front).MOV",0,val,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/029 (run side).mp4",1,val,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/036(sit front).mp4",2,val,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/048-049(sit front).mp4",2,val,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/024(front).MOV",0,val,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/34(front).mp4",0,val,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/004(front).MOV",0,val,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/022(run front).MOV",1,val,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/016(sit side).MOV",2,val,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_135520.mp4,3,val,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/021(sit side).MOV",2,val,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/003(walk side).mp4,4,val,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/041(sit front).mp4",2,val,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/041 (run side).mp4",1,val,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_130318.mp4,3,val,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/029(walk front).MOV,4,val,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/014(stand side).MOV,3,val,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting11.mp4",0,val,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/015(front).MOV",0,val,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/001(stand side).mp4,3,val,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/018(stand front).MOV,3,val,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/007 (run side).mp4",1,test,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/031(stand front).mp4,3,test,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_134556.mp4,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/023(sit side).MOV",2,test,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/003(stand side).MOV,3,test,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/005(stand side).MOV,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/025 (run side).mp4",1,test,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/033(walk front).MOV,4,test,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/016(side).MOV",0,test,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/015 (walk side).mp4,4,test,Walking
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/001(walk front).MOV,4,test,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/48(front).mp4",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/030(front).MOV",0,test,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/029 (stand side).mp4,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/008 (run side).mp4",1,test,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/VID_20210814_174038.mp4",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/017(sit side).MOV",2,test,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_134907.mp4,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/031(front).MOV",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/028 (run side).mp4",1,test,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/013(side).MOV",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/049 (sit side).mp4",2,test,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/014 (walk side).mp4,4,test,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/014 (run side).mp4",1,test,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/004(stand front).MOV,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/015 (run side).mp4",1,test,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/042 (stand side).mp4,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/052 (sit side).mp4",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/021(front).MOV",0,test,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/005(walk front).MOV,4,test,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/040 (run side).mp4",1,test,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/stand to sit transition 01.MOV,3,test,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/017(stand side).MOV,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/050(sit front).mp4",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/033(sit side).mp4",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/027 (run side).mp4",1,test,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/013(sit front).MOV",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/050 (sit side).mp4",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/001(run front).MOV",1,test,Running
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/VID_20210815_133425.mp4,3,test,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/021(stand side).mp4,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/025(front).MOV",0,test,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/036(walk front).MOV,4,test,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/034(sit front).mp4",2,test,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/025(stand front).MOV,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/047(sit front) 043(sit side).mp4",2,test,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/023(stand side).mp4,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/016(front).MOV",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/32(side).mp4",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/017(side).MOV",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/034 (run side).mp4",1,test,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/028(sit front).MOV",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/014(front).MOV",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/023(run front).MOV",1,test,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/040(sit side).mp4",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/011(sit side).MOV",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/017(front).MOV",0,test,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/019(stand front).MOV,3,test,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/020(stand side).mp4,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/003(run side).mp4",1,test,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting8.mp4",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/009(sit side).MOV",2,test,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/025(stand side).mp4,3,test,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/008 (walk side).mp4,4,test,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting3.mp4",0,test,Grazing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/011(sit front).MOV",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/40(side).mp4",0,test,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/020(stand front).MOV,3,test,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/033 (stand side).mp4,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Running/035(run front).MOV",1,test,Running
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/003(sit side).MOV",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/020(sit front).MOV",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/024(sit side).MOV",2,test,Sitting
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/035 (stand front).mp4,3,test,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/031 (stand side).MOV,3,test,Standing
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/45(front).mp4",0,test,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/034 (walk side).mp4,4,test,Walking
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/032(sit front).MOV",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Sitting/014(sit front).MOV",2,test,Sitting
+"/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Grazing, Running, Sitting)/Grazing_Running_Sitting Sheep_Classes/Grazing/sitting2.mp4",0,test,Grazing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Standing/008(stand side).MOV,3,test,Standing
+/work/mech-ai/ushashi/ME592HW3/Video Dataset of Sheep Activity (Standing and Walking)/Standing_Walking_Misc_Sheep_Classes/Walking/007 (walk side).mp4,4,test,Walking
